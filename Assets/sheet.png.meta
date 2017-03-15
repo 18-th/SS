@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 8265ced8d49aabb45998d1c76d9a28c8
+timeCreated: 1462251108
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerShip
+    21300002: Enemy_type_1
+    21300004: Laser_blue
+    21300006: hpBar
+    21300008: hpBarFilling
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 75
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerShip
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 7
+        width: 99
+        height: 75
+      alignment: 9
+      pivot: {x: 0.50567627, y: 0.2868304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.061951, y: 53.48772}
+        - {x: -12.061951, y: 52.48772}
+        - {x: -50.06195, y: 29.48772}
+        - {x: -50.06195, y: -8.5122795}
+        - {x: -27.06195, y: -21.51228}
+        - {x: 34.93805, y: -21.51228}
+        - {x: 48.93805, y: -18.51228}
+        - {x: 48.93805, y: 31.48772}
+        - {x: 11.938049, y: 53.48772}
+    - name: Enemy_type_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 785
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 41}
+        - {x: -50.5, y: 8}
+        - {x: -50.5, y: -13}
+        - {x: -44.5, y: -41}
+        - {x: 47.5, y: -41}
+        - {x: 50.5, y: -27}
+        - {x: 50.5, y: 21}
+        - {x: 36.5, y: 41}
+    - name: Laser_blue
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 98
+        width: 9
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5182495, y: 0.09073103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hpBar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 222
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111, y: 20}
+        - {x: -111, y: -20}
+        - {x: 111, y: -20}
+        - {x: 111, y: 20}
+    - name: hpBarFilling
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 126
+        width: 13
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
